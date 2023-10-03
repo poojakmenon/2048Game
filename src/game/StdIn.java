@@ -5,7 +5,7 @@ package game;
  *  Dependencies: none
  *
  *  Reads in data of various types from standard input.
- *
+ *  PROVIDED FILE
  ******************************************************************************/
 
 import java.util.ArrayList;
