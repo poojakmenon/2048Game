@@ -1,5 +1,6 @@
 package game;
 /******************************************************************************
+ *  PROVIDED FILE
  *  Compilation:  javac StdDraw.java
  *  Execution:    java StdDraw
  *  Dependencies: none
