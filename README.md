@@ -11,6 +11,19 @@ Programmed the 2048 puzzle game using object oriented programming and created se
 - <b>Object Oriented Programming</b>
 - <b>Hash Map</b>
 
+<h2>Final Game:</h2>
+
+<p align="center">
+Game Play: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Final Screen:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
+</p>
 
 <!--
  ```diff
