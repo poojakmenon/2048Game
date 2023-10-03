@@ -6,7 +6,7 @@ package game;
  *  Dependencies: none
  *
  *  Writes data of various types to standard output.
- *
+ *  PROVIDED FILE
  ******************************************************************************/
 
 import java.lang.System;
